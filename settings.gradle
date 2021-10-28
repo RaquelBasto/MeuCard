@@ -1,0 +1,2 @@
+rootProject.name = "MeuCard"
+include ':app'
